@@ -1,2 +1,2 @@
 Flask
-apprise
+apprise==0.8.5
